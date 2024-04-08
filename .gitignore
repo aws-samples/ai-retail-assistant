@@ -1,0 +1,12 @@
+# Data files:
+meta_AMAZON_FASHION.json.gz
+items.txt
+
+# Other temporary files:
+util/
+
+# Python
+__pycache__
+**.pyc
+.ipynb_checkpoints
+.venv/
